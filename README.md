@@ -1,2 +1,2 @@
 # prompt_shortcut_backup
-Backup of prompt shortcuts and configuration files
+Backup of prompt shortcut `xxx_template` files
